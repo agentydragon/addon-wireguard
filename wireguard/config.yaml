@@ -1,10 +1,15 @@
 ---
-name: WireGuard
+name: WireGuard (HOST NETWORK)
 version: dev
 slug: wireguard
-description: Fast, modern, secure VPN tunnel
-url: https://github.com/hassio-addons/addon-wireguard
-codenotary: codenotary@frenck.dev
+description: Fast, modern, secure VPN tunnel (HOST NETWORK)
+url: https://github.com/agentydragon/addon-wireguard
+
+# url: https://github.com/hassio-addons/addon-wireguard
+# codenotary: codenotary@frenck.dev
+
+host_network: true
+
 arch:
   - aarch64
   - amd64
