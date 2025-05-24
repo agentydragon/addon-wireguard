@@ -1,6 +1,6 @@
 ---
 name: WireGuard (HOST NETWORK)
-version: dev
+version: dev-2025-05-23-2207
 slug: wireguard
 description: Fast, modern, secure VPN tunnel (HOST NETWORK)
 url: https://github.com/agentydragon/addon-wireguard
